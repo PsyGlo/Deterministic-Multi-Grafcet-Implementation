@@ -10,7 +10,7 @@ This folder contains the primary automation files for the **Multi-Grafcet Coordi
 
 **TSAII_MultiGrafcet_Coordination_V1.xef**: An XML-based export. This version allows for text-based version tracking of the Grafcet logic and variable definitions.  
 
-### Technical Highlights
+### ⚙️ Technical Highlights
 
 **Architecture**: Uses a main supervisor chart (GMAITRE) to coordinate the execution of sub-sequences (G1 and G2).  
 
