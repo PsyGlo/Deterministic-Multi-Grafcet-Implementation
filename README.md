@@ -7,7 +7,7 @@ Study and implementation of concurrent SFC (Grafcet) structures using Schneider 
 ### 📂 System Architecture (Logic Map)
 Since the project is modular, the logic is divided into specialized sections. You can view the specific charts and code below:
 
-*   **[GMaitre](./Documentation/Logic_GMaitre.pdf)**: The supervisor sequence (Master) that manages the overall mission states.
+*   **[GMaitre](./Documentation/Logic_GMAITRE.pdf)**: The supervisor sequence (Master) that manages the overall mission states.
 *   **[G1](./Documentation/Logic_G1_Slave.pdf) & [G2](./Documentation/Logic_G2_Slave.pdf)**: Sub-sequences (Slaves) for handling specific repeated tasks.
 *   **[Initialization](./Documentation/Logic_Init_LD.pdf)**: Implemented in **Ladder Logic (LD)** using the `INITCHART` function for safe system resets.
 *   **[Freeze Control](./Documentation/Logic_Freeze_ST.pdf)**: Implemented in **Structured Text (ST)** using the `FREEZECHART` function for sequence pausing during anomalies.
