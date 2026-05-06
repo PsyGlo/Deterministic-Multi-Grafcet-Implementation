@@ -20,7 +20,7 @@ This folder contains the primary automation files for the **Multi-Grafcet Coordi
 **FREEZECHART**: State-freezing logic to pause evaluation during anomalies.  
 **Data Types**: Implementation of **EBOOL** (Extended Booleans) across all variables to enable diagnostic forcing and history tracking in the animation table.  
 
-###Usage
+### Usage
 
 To run this project:
 1. Open **Schneider Unity Pro / Control Expert**.
