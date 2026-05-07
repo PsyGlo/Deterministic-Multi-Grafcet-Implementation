@@ -30,8 +30,9 @@ The system is modularized to ensure separation of concerns between supervision a
 
 ### 📹 Mission Validation (Live)
 Watch the logic in motion via the Control Expert Simulator:
-* 📺 **[Watch G1/G2 Slave Coordination](./Visuals/Video_G1_Operation.mp4)**
-* 📈 **[Watch Real-time Variable Monitoring](./Visuals/Video_Animation_Table.mp4)**
+* 🎞️ **[Watch G1 Slave Coordination](./Visuals/Video_G1_Operation.mp4)**
+* 🔄 **[Watch G2 Slave Coordination](./Visuals/Video_G2_Operation.mp4)**
+* 📊 **[Watch Real-time Variable Monitoring](./Visuals/Video_Animation_Table.mp4)**
 
 ---
 
