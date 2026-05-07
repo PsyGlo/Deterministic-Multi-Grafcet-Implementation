@@ -26,7 +26,7 @@ This folder contains the primary automation files for the **Multi-Grafcet Coordi
 
 ---
 
-### Usage
+### 🚀 Usage
 
 To run this project:
 1. Open **Schneider Unity Pro / Control Expert**.
