@@ -3,7 +3,7 @@
 
 Study and implementation of concurrent SFC (Grafcet) structures. This project demonstrates high-reliability coordination using `INITCHART` and `FREEZECHART` functions to manage complex industrial sequences with deterministic precision.
 
-![System Preview](./Visuals/GMaitre_Active.png)
+![System Preview](./Visuals/GMaitre_Active.jpg)
 *Figure 1: Master/Slave architecture executing in the Control Expert Simulator.*
 
 ---
