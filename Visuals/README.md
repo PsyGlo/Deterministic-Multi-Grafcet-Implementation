@@ -19,7 +19,7 @@ This folder contains the live demonstrations of the **Multi-Grafcet Coordination
 ### 🖼️ Static Capture
 
 #### Master Supervision (GMaitre)
-* **File**: `GMaitre_Active.png`
+* **File**: `GMaitre_Active.jpg`
 * **What it shows**: A high-level snapshot of the supervisor chart. While the slaves are shown in motion in the videos, this capture provides a clear, still view of the Master’s transitions and state management.
 
 ---
