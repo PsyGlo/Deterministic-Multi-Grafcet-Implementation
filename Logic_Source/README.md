@@ -6,7 +6,7 @@ This folder contains the primary automation files for the **Multi-Grafcet Coordi
 
 ### 📄 File Inventory
 
-**TSAII_MultiGrafcet_Coordination_V1.sta**: The primary project archive. This is the most reliable file for opening the project in Schneider Unity Pro / Control Expert.  
+**TSAII_MultiGrafcet_Coordination_V1.stu**: The primary project archive. This is the most reliable file for opening the project in Schneider Unity Pro / Control Expert.  
 
 **TSAII_MultiGrafcet_Coordination_V1.zef**: A full project export used for comprehensive backups, including application data.  
 
