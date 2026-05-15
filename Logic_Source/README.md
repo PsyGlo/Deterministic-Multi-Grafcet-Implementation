@@ -30,7 +30,7 @@ This folder contains the primary automation files for the **Multi-Grafcet Coordi
 
 To run this project:
 1. Open **Schneider Unity Pro / Control Expert**.
-2. Go to **File > Restore Archive...** and select the `.sta` file from this folder.
+2. Go to **File > Restore Archive...** and select the `.stu` file from this folder.
 3. Once opened, go to **Build > Rebuild All Project**.
 4. Connect to the **PLC Simulator**, transfer the project, and set to **Run**.
 5. Use the **Animation Table** to observe the interaction between `GMAITRE` and the slave charts
